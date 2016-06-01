@@ -203,6 +203,7 @@ aside {
         }
 
         > section.credits {
+            display: none;
             margin-top: 4em;
             color: lighten($dark-bg, 30%);
 

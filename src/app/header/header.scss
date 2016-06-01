@@ -12,15 +12,9 @@ header.app {
         text-align: left;
     }
 
-    > label {
-        display: inline-block;
-        font-size: 2em;
-        font-weight: 700;
-        white-space: nowrap;
-        text-overflow: ellipsis;
-        overflow: hidden;
-        line-height: $header-height;
-        width: 75%;
+    > img {
+        width: 50px;
+        margin-top: .5em;
     }
 
     > button {
